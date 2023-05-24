@@ -1,18 +1,26 @@
 {
-  "name": "express",
+  "name": "app_example",
   "version": "1.0.0",
-  "description": "",
+  "description": "express na pratica",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luan Henrique Tavares de Souza",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
   },
   "devDependencies": {
     "eslint": "^8.41.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oLuanHenrique/desafiobackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oLuanHenrique/desafiobackend/issues"
+  },
+  "homepage": "https://github.com/oLuanHenrique/desafiobackend#readme"
 }
