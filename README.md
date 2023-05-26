@@ -14,20 +14,30 @@ Estrutura de Arquivos
 A estrutura de arquivos do projeto é organizada da seguinte forma:
 
 ├── node_modules/          # Pasta contendo as dependências do projeto
+
 ├── app.js                 # Arquivo principal da aplicação
+
 ├── package.json           # Arquivo de configuração do projeto
+
 ├── package-lock.json      # Arquivo de controle de versão das dependências
+
 ├── .eslintrc.json         # Arquivo de configuração do Eslint
+
 └── README.md              # Este arquivo README
+
 
 Endpoints Disponíveis
 
 A aplicação possui os seguintes endpoints:
 
 1- GET /: Endpoint raiz da aplicação.
+
 2- GET /clientes: Endpoint para obter informações dos clientes.
+
 3- POST /clientes: Endpoint para criar um novo cliente.
+
 4- PUT /produtos: Endpoint para atualizar informações de um produto.
+
 5- DELETE /produtos: Endpoint para excluir um produto.
 
 Executando a Aplicação
